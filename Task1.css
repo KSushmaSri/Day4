@@ -89,7 +89,5 @@ button{
     margin: -35px 0px 0px 22.9px;
     background-color:green;
     position:relative;
-    left: 0;
-    top: 0;
     z-index: -1;
 }
