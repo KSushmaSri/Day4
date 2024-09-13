@@ -97,9 +97,12 @@ button{
     height: 100px;
     border-radius: 50%;
 }
+.olympic_logo{
+    display: flex;
+}
 .oly_circle4{
-    margin: 50px -50px 0 -250px ;
+    margin: 50px 0 0 -250px;
 }
 .oly_circle5{
-    margin:50px 0 0 50px;
+    margin: 50px 0 0 0 ;
 }
