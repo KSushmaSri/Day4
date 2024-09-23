@@ -6,8 +6,9 @@
 .tasks{
     display: flex;
     flex-wrap: wrap;
+    width:100%;
     margin: 1% 0.5%;
-    padding:0 0 0 10px;
+    justify-content: space-between;
 } 
 .sq1{
     width: 200px;
